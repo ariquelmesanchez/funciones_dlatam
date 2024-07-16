@@ -1,0 +1,16 @@
+div {
+  width: 200px;
+  height: 200px;
+}
+div#contenedor1 {
+  color: blue;
+}
+div#contenedor2 {
+  color: red;
+}
+div#contenedor3 {
+  color: green;
+}
+div#contenedor4 {
+  color: yellow;
+}/*# sourceMappingURL=styles.css.map */

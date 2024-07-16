@@ -1,0 +1,18 @@
+div{
+    width: 200px;
+    height: 200px;
+
+    &#contenedor1{
+        color:blue ;
+    }
+    &#contenedor2{
+        color: red;
+    }
+    &#contenedor3{
+        color: green;
+    }
+    &#contenedor4{
+        color: yellow;
+    }
+
+}
